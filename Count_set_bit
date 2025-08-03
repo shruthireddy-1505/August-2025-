@@ -1,0 +1,13 @@
+#User function Template for python3
+class Solution:
+	def setBits(self, n):
+	    s=""
+        while n!=0:
+            r=n%2
+            s+=str(r)
+            n=n//2
+        count=0
+        for i in s:
+            if i=="1":
+                count+=1
+        return count

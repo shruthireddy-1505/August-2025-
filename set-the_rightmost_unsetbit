@@ -1,0 +1,21 @@
+n=int(input("enter:"))
+temp=n
+s=""
+while n!=0:
+    r=n%2
+    s+=str(r)
+    n=n//2
+pos=-1
+for i in range(len(s)):
+    if s[i]=="0":
+        pos=i
+        break
+if pos ==-1:
+    pos=len(s)
+res=temp|(1<<pos)
+print(res)
+_______________________________________
+#even the scond code is correct
+class Solution:
+	def setBit(self, n):
+		return n|n+1

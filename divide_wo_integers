@@ -1,0 +1,23 @@
+dividend=int(input("enter:"))
+divisor=int(input("enter:"))
+sign=True
+if dividend<0 and divisor<0:
+    sign=True
+if dividend<0 or divisor<0:
+    sign=False
+dividend=abs(dividend)
+divisor=abs(divisor)
+count=0
+while dividend>=divisor:
+    temp=divisor
+    mul=1
+    while dividend>=(temp<<1):
+        temp<<=1
+        mul<<=1
+    dividend-=temp
+    count+=mul
+if sign==False:
+    print(-count)
+else:
+    print(count)
+        

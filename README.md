@@ -16,6 +16,7 @@ ALL AUGUST-2025 CODES
 | [0191-number-of-1-bits](https://github.com/shruthireddy-1505/August-2025-/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/shruthireddy-1505/August-2025-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/shruthireddy-1505/August-2025-/tree/master/0342-power-of-four) |
+| [1054-complement-of-base-10-integer](https://github.com/shruthireddy-1505/August-2025-/tree/master/1054-complement-of-base-10-integer) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/shruthireddy-1505/August-2025-/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shruthireddy-1505/August-2025-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Array

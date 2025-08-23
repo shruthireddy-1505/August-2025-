@@ -11,6 +11,7 @@ ALL AUGUST-2025 CODES
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shruthireddy-1505/August-2025-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shruthireddy-1505/August-2025-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shruthireddy-1505/August-2025-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shruthireddy-1505/August-2025-/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/shruthireddy-1505/August-2025-/tree/master/0191-number-of-1-bits) |
@@ -29,6 +30,7 @@ ALL AUGUST-2025 CODES
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/shruthireddy-1505/August-2025-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/shruthireddy-1505/August-2025-/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/shruthireddy-1505/August-2025-/tree/master/0342-power-of-four) |
 ## Backtracking
 |  |
@@ -42,4 +44,12 @@ ALL AUGUST-2025 CODES
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/shruthireddy-1505/August-2025-/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shruthireddy-1505/August-2025-/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shruthireddy-1505/August-2025-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
